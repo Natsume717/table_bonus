@@ -1,0 +1,2 @@
+# table_bonus
+predicateのtable_bonusに関するデータパックサンプルになります。
